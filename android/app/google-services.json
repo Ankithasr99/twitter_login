@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261993033151",
+    "project_id": "loginwithtwitter-a2be6",
+    "storage_bucket": "loginwithtwitter-a2be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261993033151:android:a902d86c6257b215ea850a",
+        "android_client_info": {
+          "package_name": "com.logintwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261993033151-lmjphueq2st30r5ls95599clupo8s39j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logintwitter",
+            "certificate_hash": "518439c2dfb6c4c2b89be4caf88d46c1ed4e019e"
+          }
+        },
+        {
+          "client_id": "261993033151-uudce1cpcom5qg8398rme5p3k132p1j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCduqOfNbFtJKErXcFvqR0cDuhdJL297tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261993033151-uudce1cpcom5qg8398rme5p3k132p1j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
